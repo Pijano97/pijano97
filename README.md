@@ -29,9 +29,9 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. [Gmail-clone](https://github.com/Pijano97/gmail-clone)
-2. [Amazon-clone](https://github.com/Pijano97/amazon-fullClone)
-3. 🗣 Portfolio
+1. [Gmail-clone](https://github.com/Pijano97/gmail-clone) In progress...
+2. [Amazon-clone](https://github.com/Pijano97/amazon-fullClone) In progress..
+3. Portfolio In progress
 <!--END_SECTION:activity-->
 </details>
 
